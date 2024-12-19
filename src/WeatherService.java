@@ -6,7 +6,7 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import org.json.JSONObject;
 import org.json.JSONArray;
-
+// rer
 
 public class WeatherService {
     // Api-ключ
